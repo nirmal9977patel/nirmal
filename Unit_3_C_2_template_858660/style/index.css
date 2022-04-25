@@ -1,0 +1,15 @@
+#navbar {
+    width: 100%;
+    height: 50px;
+    border: 1px solid red;
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    grid-template-columns: auto;
+    grid-template-rows: repeat(1hr);
+    margin: auto;
+    text-align: center;
+    /* text-align: ; */
+    background-color: aquamarine;
+    padding-top: 20px;
+}
